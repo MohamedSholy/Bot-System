@@ -29,7 +29,7 @@ client.on("message", message => {
       .setColor("RANDOM")
       .addField("『vs Bot』 『اسم البوت』", true)
       
-      .addField("『المصمم』       زيزو", true)
+      
       
       .addField("『^help^』😘『اذا تبي جميع الاوامر مع اوامر اضافية』😵", true)
       
